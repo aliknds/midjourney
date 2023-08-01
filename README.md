@@ -1,4 +1,6 @@
 ﻿# midjourney
+
+Copied from [here](https://medium.com/ai-genesis/the-midjourney-cheat-sheet-v5-7b535f3a29af)
 ```
 Basic Prompt Anatomy: 
 /imagine prompt: [PREFIX] [SCENE] [SUFFIX] [Parameters]
