@@ -66,4 +66,4 @@ More Commands:
 /settings…
 ```
 
-[Photo](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*C82cdCSU-AH8jDPxQdxD7w.png) 
+![Photo](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*C82cdCSU-AH8jDPxQdxD7w.png) 
